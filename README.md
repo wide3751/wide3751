@@ -4,7 +4,7 @@
 
 10+ 年經驗的全端工程師，專注 AI Agent、多意圖工作流與 RAG，也帶團隊落地。
 
-**擅長**：LLM 應用、Multi-Agent、Vue.js、Node.js、iOS、WebRTC
+**擅長**：LLM 應用、Multi-Agent、Vue.js、Node.js、ASP.NET Core、iOS、WebRTC
 
 ## 開源專案
 
@@ -21,7 +21,7 @@
 
 10+ 年经验的全栈工程师，专注 AI Agent、多意图工作流与 RAG，也带团队落地。
 
-**擅长**：LLM 应用、Multi-Agent、Vue.js、Node.js、iOS、WebRTC
+**擅长**：LLM 应用、Multi-Agent、Vue.js、Node.js、ASP.NET Core、iOS、WebRTC
 
 **联系**：请通过各项目的 Issues 或 Discussions。
 
@@ -31,6 +31,6 @@
 
 Full-stack engineer with 10+ years of experience, focused on AI agents, multi-intent workflows and RAG. I also lead teams to ship.
 
-**Skills**: LLM apps, multi-agent, Vue.js, Node.js, iOS, WebRTC
+**Skills**: LLM apps, multi-agent, Vue.js, Node.js, ASP.NET Core, iOS, WebRTC
 
 **Contact**: please use Issues or Discussions on the relevant project.
