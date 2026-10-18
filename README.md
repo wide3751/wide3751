@@ -35,7 +35,6 @@
 
 - [sommelier](https://github.com/wide3751/sommelier)：為每個任務自動挑對模型與 effort 的 Claude Code 外掛
 - [switchboard](https://github.com/wide3751/switchboard)：在同一個面板查看所有本機 Claude Code session 的狀態
-- [dify-wecom-plugin](https://github.com/wide3751/dify-wecom-plugin)：在 Dify 工作流中呼叫企業微信服務端 API
 
 ## 聯絡
 
